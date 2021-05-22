@@ -1,5 +1,7 @@
-package com.mms.CamsEcommerceReviews.Models;
+package com.mms.CamsEcommerceReviews.Review;
 
+import com.mms.CamsEcommerceReviews.Product.Product;
+import com.mms.CamsEcommerceReviews.User.User;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
